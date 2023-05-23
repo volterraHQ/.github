@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <h1>Volterra</h1>
+  <br />
+  <a href="https://www.volterra.app">Our website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://changelog.volterra.app/">Our changelog</a>
+</div>
+
+
+## Welcome 👋 
+
+Volterra makes writing changelogs simple and straightforward.
+
 
 <!--
 
