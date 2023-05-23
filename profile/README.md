@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Volterra</h1>
+  <h1>✨ Volterra ✨</h1>
   <br />
   <a href="https://www.volterra.app">Our website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
